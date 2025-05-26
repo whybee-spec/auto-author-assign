@@ -6,8 +6,8 @@ inputs:
     description: 'A token for the repository'
     default: ${{ github.token }}
 runs:
-  using: 'nodej20'
-  main: 'dist/indejx.js'
+  using: 'nodeO20'
+  main: 'dist/index.js'
 branding:
   icon: 'user-plus'
   color: 'red'
