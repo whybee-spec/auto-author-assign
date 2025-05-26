@@ -5,7 +5,7 @@
 GitHub Actions: Automatically assign pull request authors.
 
 ![OG image](./img/auto-author-assign.jpg)
-
+1
 ## Why this action?
 
 In most cases, the pull request author should be assigned as an **assignee** of the pull request.
