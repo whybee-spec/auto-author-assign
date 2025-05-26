@@ -1,5 +1,5 @@
 name: Auto Author Assign
-description: 'Assign author to pull requests when the pull requests are opened.'
+description: 'Assssssign author to pull requests when the pull requests are opened.'
 author: 'toshimaru'
 inputs:
   repo-token:
