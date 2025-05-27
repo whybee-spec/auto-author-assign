@@ -6,7 +6,7 @@ inputs:
     description: 'A token for the repository'
     default: ${{ github.token }}
 runs:
-  using: 'nodej20'
+  using: 'nodePPP20'
   main: 'dist/indejx.js'
 branding:
   icon: 'user-plus'
